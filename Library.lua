@@ -90,12 +90,12 @@ local Tooltips = {}
 local Dialogues = {}
 
 -- https://github.com/deividcomsono/Obsidian/blob/main/Library.lua#L30
-local BaseURL = "https://raw.githubusercontent.com/mstudio45/LinoriaLib/refs/heads/main/"
+local BaseURL = "https://raw.githubusercontent.com/aidarkunakbaev2/LinoriaLibRewrite/refs/heads/main/"
 local CustomImageManager = {}
 local CustomImageManagerAssets = {
     Cursor = {
         RobloxId = 9619665977,
-        Path = "LinoriaLib/assets/Cursor.png",
+        Path = "LinoriaLibRewrite/assets/Cursor.png",
         URL = BaseURL .. "assets/Cursor.png",
 
         Id = nil,
@@ -103,7 +103,7 @@ local CustomImageManagerAssets = {
 
     DropdownArrow = {
         RobloxId = 6282522798,
-        Path = "LinoriaLib/assets/DropdownArrow.png",
+        Path = "LinoriaLibRewrite/assets/DropdownArrow.png",
         URL = BaseURL .. "assets/DropdownArrow.png",
 
         Id = nil,
@@ -111,7 +111,7 @@ local CustomImageManagerAssets = {
 
     Checker = {
         RobloxId = 12977615774,
-        Path = "LinoriaLib/assets/Checker.png",
+        Path = "LinoriaLibRewrite/assets/Checker.png",
         URL = BaseURL .. "assets/Checker.png",
 
         Id = nil,
@@ -119,7 +119,7 @@ local CustomImageManagerAssets = {
 
     CheckerLong = {
         RobloxId = 12978095818,
-        Path = "LinoriaLib/assets/CheckerLong.png",
+        Path = "LinoriaLibRewrite/assets/CheckerLong.png",
         URL = BaseURL .. "assets/CheckerLong.png",
 
         Id = nil,
@@ -127,7 +127,7 @@ local CustomImageManagerAssets = {
 
     SaturationMap = {
         RobloxId = 4155801252,
-        Path = "LinoriaLib/assets/SaturationMap.png",
+        Path = "LinoriaLibRewrite/assets/SaturationMap.png",
         URL = BaseURL .. "assets/SaturationMap.png",
 
         Id = nil,
